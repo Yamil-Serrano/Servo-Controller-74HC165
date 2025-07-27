@@ -89,6 +89,6 @@ This project is licensed under the MIT License – see the [LICENSE](LICENSE.md)
 
 ## Contact
 
-If you have any questions or ideas, feel free to connect:
+If you have any questions or suggestions, feel free to reach out to me:
 
 GitHub: [Neowizen](https://github.com/Yamil-Serrano)
