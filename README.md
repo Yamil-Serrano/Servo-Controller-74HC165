@@ -12,8 +12,8 @@ A basic controller setup for two servos using an **input shift register** (74HC1
 
 This project builds upon concepts introduced in earlier repos:
 
-* **Part 1**: [74HC595 – Output Expansion](https://github.com/Yamil-Serrano/74HC595-ESP8266-Output-Expansion)
-* **Part 2**: [74HC165 – Input Expansion](https://github.com/Yamil-Serrano/74HC165-ESP8266-Input-Expansion)
+- **Part 1**:  [74HC595-Microcontroller-Output-Expansion](https://github.com/Yamil-Serrano/74HC595-Microcontroller-Output-Expansion)  
+- **Part 2**:  [74HC165-Microcontroller-Input-Expansion](https://github.com/Yamil-Serrano/74HC595-Microcontroller-Input-Expansion)
 
 ---
 
