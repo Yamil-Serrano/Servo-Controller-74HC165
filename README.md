@@ -78,7 +78,8 @@ git clone https://github.com/Yamil-Serrano/Servo-Controller-74HC165.git
 ---
 # Diagram
 
-<img width="1111" height="673" alt="image" src="https://github.com/user-attachments/assets/29a81b30-3e81-42db-9b22-a70b9429333c" />
+<img width="1256" height="708" alt="image" src="https://github.com/user-attachments/assets/b2e36cc8-55c4-4e34-af47-3935028d2d25" />
+
 
 
 ## License
