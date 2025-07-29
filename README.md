@@ -1,4 +1,4 @@
-# Servo-Controller-74HC165
+# 74HC165-Servo-Control
 
 A basic controller setup for two servos using an **input shift register** (74HC165) to read button states with minimal GPIO usage. The servos respond to specific button presses, allowing directional control (left/right) for each servo.
 
@@ -56,7 +56,7 @@ This project builds upon concepts introduced in earlier repos:
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/Yamil-Serrano/Servo-Controller-74HC165.git
+git clone https://github.com/Yamil-Serrano/74HC165-Servo-Control
 ```
 
 2. Open `src/main.cpp` in Arduino IDE or PlatformIO.
